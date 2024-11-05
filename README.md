@@ -3,7 +3,7 @@ Jogo educacional em desenvolvimento para pesquisa e iniciação científica estu
 Este projeto NÃO PODE ser rodado fora de ambiente web, logo se faz necessário executá-lo através de um servidor local como WAMP ou XAMP.
 Todos os assets e funcionalidades do Phaser.js já estão presentes no projeto e não se faz necessário nenhum tipo de instalação externa.
 
-=========================================================================================================================================
+=================================================================
 
 Educational game under development for research and scientific initiation studying and identifying the impacts of gamification in education.
 
